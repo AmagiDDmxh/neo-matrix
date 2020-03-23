@@ -1,0 +1,77 @@
+[
+  {
+    "protocol": "http",
+    "url": "seed1.ngd.network",
+    "ips": [
+      "168.61.166.110"
+    ],
+    "port": "10332",
+    "type": "RPC"
+  },
+  {
+    "protocol": "http",
+    "url": "seed2.ngd.network",
+    "ips": [
+      "104.43.234.181"
+    ],
+    "location": "USA",
+    "locale": "us",
+    "port": "10332",
+    "type": "RPC"
+  },
+  {
+    "protocol": "https",
+    "url": "seed1.cityofzion.io",
+    "ips": [
+      "13.58.252.110"
+    ],
+    "location": "USA",
+    "locale": "us",
+    "port": "443",
+    "type": "RPC"
+  },
+  {
+    "protocol": "https",
+    "url": "seed2.cityofzion.io",
+    "ips": [
+      "18.216.146.68"
+    ],
+    "location": "USA",
+    "locale": "us",
+    "port": "443",
+    "type": "RPC"
+  },
+  {
+    "protocol": "https",
+    "url": "seed1.switcheo.network",
+    "ips": [
+      "52.77.48.175"
+    ],
+    "location": "Singapore",
+    "locale": "sg",
+    "port": "10331",
+    "type": "RPC"
+  },
+  {
+    "protocol": "https",
+    "url": "seed2.switcheo.network",
+    "ips": [
+      "52.77.48.175"
+    ],
+    "location": "Singapore",
+    "locale": "sg",
+    "port": "10331",
+    "type": "RPC"
+  },
+  {
+    "protocol": "http",
+    "url": "seed1.alienworks.io",
+    "ips": [
+      "147.139.5.18"
+    ],
+    "location": "India",
+    "locale": "in",
+    "port": "10332",
+    "type": "RPC"
+  }
+]
